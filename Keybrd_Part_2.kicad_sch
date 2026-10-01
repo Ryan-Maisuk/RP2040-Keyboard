@@ -1,7 +1,7 @@
 (kicad_sch
-	(version 20250114)
+	(version 20260306)
 	(generator "eeschema")
-	(generator_version "9.0")
+	(generator_version "10.0")
 	(uuid "81b42d2b-3549-47f3-9495-e592cbed5536")
 	(paper "A4")
 	(lib_symbols)
@@ -18,11 +18,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "dcf9b137-2c89-4ae0-87e2-f5373aab4242")
-		(property "Sheetname" "LeftSide_kybd"
+		(property "Sheetname" "LeftSide"
 			(at 54.356 68.8844 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30,8 +32,10 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "untitled.kicad_sch"
+		(property "Sheetfile" "LeftSide.kicad_sch"
 			(at 54.356 100.1526 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -60,11 +64,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "e54e4537-1233-4890-adb4-9db6da850684")
-		(property "Sheetname" "RightSide_Kybd"
+		(property "Sheetname" "RightSide"
 			(at 54.356 112.3184 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -72,8 +78,10 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "RigthSide.kicad_sc.kicad_sch"
+		(property "Sheetfile" "RightSide.kicad_sch"
 			(at 54.356 140.0306 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
