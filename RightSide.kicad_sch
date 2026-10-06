@@ -666,164 +666,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "Connector_Generic:Conn_01x02"
-			(pin_names
-				(offset 1.016)
-				(hide yes)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(in_pos_files yes)
-			(duplicate_pin_numbers_are_jumpers no)
-			(property "Reference" "J"
-				(at 0 2.54 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "Conn_01x02"
-				(at 0 -5.08 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_keywords" "connector"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_fp_filters" "Connector*:*_1x??_*"
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
-				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "Conn_01x02_1_1"
-				(rectangle
-					(start -1.27 1.27)
-					(end 1.27 -3.81)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(rectangle
-					(start -1.27 0.127)
-					(end 0 -0.127)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start -1.27 -2.413)
-					(end 0 -2.667)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at -5.08 0 0)
-					(length 3.81)
-					(name "Pin_1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at -5.08 -2.54 0)
-					(length 3.81)
-					(name "Pin_2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "Device:C"
 			(pin_numbers
 				(hide yes)
@@ -2957,6 +2799,170 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Switch:SW_Push"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "SW"
+				(at 1.27 2.54 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "SW_Push"
+				(at 0 -1.524 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 5.08 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 5.08 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Push button switch, generic, two pins"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "switch normally-open pushbutton push-button"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "SW_Push_0_1"
+				(circle
+					(center -2.032 0)
+					(radius 0.508)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 1.27) (xy 0 3.048)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 2.032 0)
+					(radius 0.508)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 1.27) (xy -2.54 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 0 180)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "power:+1V1"
 			(power global)
 			(pin_numbers
@@ -3741,7 +3747,7 @@
 	)
 	(text "27 Ohm resistor\nplace close to chip"
 		(exclude_from_sim no)
-		(at 289.814 173.228 0)
+		(at 282.956 172.72 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4003,13 +4009,23 @@
 	)
 	(wire
 		(pts
-			(xy 320.04 55.88) (xy 320.04 67.31)
+			(xy 320.04 45.72) (xy 320.04 67.31)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "0184b26f-d433-48e6-84eb-8a48dfaaf07f")
+	)
+	(wire
+		(pts
+			(xy 115.57 31.75) (xy 127 31.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "028b5100-f98e-4a7c-8d61-4dc7876936f4")
 	)
 	(wire
 		(pts
@@ -4160,6 +4176,16 @@
 			(type default)
 		)
 		(uuid "20cb83ca-7f3b-4bca-ad57-36338f766ff2")
+	)
+	(wire
+		(pts
+			(xy 297.18 180.34) (xy 307.34 180.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2590a01f-8274-4c46-a4c4-c883453e531a")
 	)
 	(wire
 		(pts
@@ -4353,6 +4379,16 @@
 	)
 	(wire
 		(pts
+			(xy 308.61 74.93) (xy 320.04 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "411e7565-fe20-4dda-a729-6b74020934dc")
+	)
+	(wire
+		(pts
 			(xy 219.71 50.8) (xy 208.28 50.8)
 		)
 		(stroke
@@ -4400,6 +4436,16 @@
 			(type default)
 		)
 		(uuid "4b7ff238-c7f7-44c1-bd0c-41377c6c1dd6")
+	)
+	(wire
+		(pts
+			(xy 308.61 80.01) (xy 320.04 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "51614470-3c4e-4b4c-a9c0-d1f58b0f191d")
 	)
 	(wire
 		(pts
@@ -4553,6 +4599,16 @@
 	)
 	(wire
 		(pts
+			(xy 297.18 187.96) (xy 307.34 187.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "72df8c1b-4a57-4496-a7d9-909c1f18d9b0")
+	)
+	(wire
+		(pts
 			(xy 300.99 162.56) (xy 307.34 162.56)
 		)
 		(stroke
@@ -4580,6 +4636,16 @@
 			(type default)
 		)
 		(uuid "751f53eb-48fd-461a-94d4-81a9b840cae7")
+	)
+	(wire
+		(pts
+			(xy 308.61 69.85) (xy 320.04 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "752c3852-1680-49df-9fca-1f1dd33d6d0f")
 	)
 	(wire
 		(pts
@@ -4660,6 +4726,16 @@
 			(type default)
 		)
 		(uuid "7fb8be86-bbb8-4c81-9395-ae62646fd22e")
+	)
+	(wire
+		(pts
+			(xy 308.61 77.47) (xy 320.04 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "81ade5d6-ed0c-439c-b5f2-2238dcc563e7")
 	)
 	(wire
 		(pts
@@ -4783,6 +4859,16 @@
 	)
 	(wire
 		(pts
+			(xy 297.18 177.8) (xy 307.34 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a00044f5-aa38-40ec-994a-8b0c9d1c37dc")
+	)
+	(wire
+		(pts
 			(xy 213.36 198.12) (xy 229.87 198.12)
 		)
 		(stroke
@@ -4850,6 +4936,16 @@
 			(type default)
 		)
 		(uuid "b69ec5ae-f3fd-422a-8bb4-7bc7978641eb")
+	)
+	(wire
+		(pts
+			(xy 297.18 182.88) (xy 307.34 182.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bac72e79-5dfc-416e-ad1d-a2399b2b8c84")
 	)
 	(wire
 		(pts
@@ -5083,6 +5179,26 @@
 	)
 	(wire
 		(pts
+			(xy 304.8 172.72) (xy 307.34 172.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d3d9f531-9ebe-41ca-8181-5f3e04172309")
+	)
+	(wire
+		(pts
+			(xy 297.18 185.42) (xy 307.34 185.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d9b5651e-a7ce-4ad8-9bf6-1219ce04a107")
+	)
+	(wire
+		(pts
 			(xy 185.42 35.56) (xy 196.85 35.56)
 		)
 		(stroke
@@ -5150,6 +5266,16 @@
 			(type default)
 		)
 		(uuid "e6016578-e7d5-4f3c-b63f-fddee0d1008d")
+	)
+	(wire
+		(pts
+			(xy 308.61 72.39) (xy 320.04 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e6cfc28f-f756-44cb-945a-ac7a998708a5")
 	)
 	(wire
 		(pts
@@ -5261,16 +5387,6 @@
 		)
 		(uuid "fa1f5c31-7aa1-4c6f-960a-cda7f9404fe7")
 	)
-	(wire
-		(pts
-			(xy 330.2 55.88) (xy 320.04 55.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fddc123b-10e7-4e22-a396-c3e387c675df")
-	)
 	(label "GPIO_1"
 		(at 365.76 157.48 180)
 		(effects
@@ -5301,6 +5417,16 @@
 		)
 		(uuid "14490bc8-18a3-4c3c-a2f6-24bcbb3cf237")
 	)
+	(label "QSPI_SD2"
+		(at 308.61 77.47 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "1afe913c-006a-4a18-92d1-169aeeddf65a")
+	)
 	(label "XIN"
 		(at 297.18 200.66 0)
 		(effects
@@ -5320,6 +5446,26 @@
 			(justify right bottom)
 		)
 		(uuid "28f0602d-af27-49e1-ac4e-f65674ae1911")
+	)
+	(label "QSPI_SD1"
+		(at 297.18 180.34 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "5a5bbe12-9581-4b98-b5ac-d287f8d2fd72")
+	)
+	(label "QSPI_SD1"
+		(at 308.61 74.93 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "5b772a88-77ad-4b10-836b-e673b61525a7")
 	)
 	(label "GPIO_2"
 		(at 365.76 160.02 180)
@@ -5351,6 +5497,16 @@
 		)
 		(uuid "74cd3280-95ac-44d2-9a59-c285a1228034")
 	)
+	(label "QSPI_SS"
+		(at 320.04 45.72 270)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "83287a15-7b46-4e55-ae78-2c93ec34c7ed")
+	)
 	(label "GPIO_2"
 		(at 182.88 218.44 180)
 		(effects
@@ -5371,6 +5527,26 @@
 		)
 		(uuid "8bb12e9a-61fa-42ab-97a8-de8fd72ba6d5")
 	)
+	(label "QSPI_SCLK"
+		(at 297.18 187.96 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "8d154ecb-f559-4170-ac15-8b82f80ec9a4")
+	)
+	(label "QSPI_SS"
+		(at 304.8 172.72 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "8dd84402-6622-4260-a4d5-15fe71094cd1")
+	)
 	(label "SWCLK"
 		(at 297.18 220.98 0)
 		(effects
@@ -5380,6 +5556,16 @@
 			(justify left bottom)
 		)
 		(uuid "948effed-e8c8-4fb1-8f50-ece193374383")
+	)
+	(label "QSPI_SDO"
+		(at 297.18 177.8 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "97adcb01-dab6-4edb-8120-d2e515e68534")
 	)
 	(label "USB_D-"
 		(at 281.94 166.37 0)
@@ -5391,6 +5577,26 @@
 		)
 		(uuid "a229a406-8530-4201-9253-351175558f22")
 	)
+	(label "QSPI_SD2"
+		(at 297.18 182.88 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a77fdcb5-2453-4ad1-8094-ad838f9cf101")
+	)
+	(label "QSPI_SCLK"
+		(at 308.61 69.85 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "aa865ebc-f5bc-46f3-855a-264a2a25f0d8")
+	)
 	(label "SWD"
 		(at 297.18 223.52 0)
 		(effects
@@ -5400,6 +5606,26 @@
 			(justify left bottom)
 		)
 		(uuid "beb50255-b0a3-4c04-a9ae-cb86916387e4")
+	)
+	(label "QSPI_SD3"
+		(at 308.61 80.01 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "e14a4d36-1994-4c78-aaf4-be0b9a9bf431")
+	)
+	(label "QSPI_SD3"
+		(at 297.18 185.42 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f579d539-0565-4862-b7cc-456039e5eb26")
 	)
 	(label "XIN"
 		(at 213.36 198.12 0)
@@ -5411,6 +5637,26 @@
 		)
 		(uuid "f76af0c4-8e73-4045-934d-b74ace159cb5")
 	)
+	(label "RUN"
+		(at 127 31.75 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "f9ee098b-1e00-4d89-abbe-39373f49b31f")
+	)
+	(label "QSPI_SDO"
+		(at 308.61 72.39 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "fafd9285-f2b3-45d4-9fad-30300e87188e")
+	)
 	(label "XOUT"
 		(at 297.18 210.82 0)
 		(effects
@@ -5420,6 +5666,85 @@
 			(justify left bottom)
 		)
 		(uuid "fe6d2361-9d6d-454f-b9d6-dfce05bd80c3")
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 105.41 31.75 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "01aac338-82b1-47ba-bf63-95b10fad8664")
+		(property "Reference" "#PWR04"
+			(at 99.06 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 101.6 31.7499 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 105.41 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 105.41 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 105.41 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "bb6e7b20-41c4-458c-bc33-e43d71b12e90")
+		)
+		(instances
+			(project "Keybrd_Part_2"
+				(path "/81b42d2b-3549-47f3-9495-e592cbed5536/e54e4537-1233-4890-adb4-9db6da850684"
+					(reference "#PWR04")
+					(unit 1)
+				)
+			)
+		)
 	)
 	(symbol
 		(lib_id "Device:C")
@@ -5455,7 +5780,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 251.1552 147.32 0)
 			(hide yes)
 			(show_name no)
@@ -5537,7 +5862,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 209.2452 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -5619,7 +5944,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 242.2652 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -5668,6 +5993,84 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 332.74 238.76 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1080b373-83cb-4d06-95dd-3c6c40b43ecc")
+		(property "Reference" "#PWR08"
+			(at 332.74 245.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 332.74 243.84 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 332.74 238.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 332.74 238.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 332.74 238.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "d948f0a4-7e60-4201-b3b0-462dd90f7366")
+		)
+		(instances
+			(project "Keybrd_Part_2"
+				(path "/81b42d2b-3549-47f3-9495-e592cbed5536/e54e4537-1233-4890-adb4-9db6da850684"
+					(reference "#PWR08")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 252.73 43.18 0)
 		(unit 1)
@@ -5701,7 +6104,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 253.6952 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -5906,6 +6309,86 @@
 		)
 	)
 	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 110.49 31.75 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2975e9f3-e503-4096-ac45-8ba5a3b105d3")
+		(property "Reference" "SW4"
+			(at 110.49 24.13 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 110.49 26.67 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Button_Switch_SMD:Nidec_Copal_CAS-120A"
+			(at 110.49 26.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 110.49 26.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 110.49 31.75 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "07d0d08a-eb4d-41ac-b31f-f5c7206dcf31")
+		)
+		(pin "1"
+			(uuid "20c6c249-593a-4092-909b-e0a2eadef55e")
+		)
+		(instances
+			(project "Keybrd_Part_2"
+				(path "/81b42d2b-3549-47f3-9495-e592cbed5536/e54e4537-1233-4890-adb4-9db6da850684"
+					(reference "SW4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 233.68 142.24 0)
 		(unit 1)
@@ -6014,7 +6497,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
 			(at 196.85 129.032 90)
 			(hide yes)
 			(show_name no)
@@ -6057,6 +6540,85 @@
 			(project "Keybrd_Part_2"
 				(path "/81b42d2b-3549-47f3-9495-e592cbed5536/e54e4537-1233-4890-adb4-9db6da850684"
 					(reference "R7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 307.34 231.14 270)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "30e5e886-de89-4ed4-ad7c-c4462f6d9154")
+		(property "Reference" "#PWR07"
+			(at 300.99 231.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 303.53 231.1399 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 307.34 231.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 307.34 231.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 307.34 231.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "108907ca-7496-4e41-b818-21a0dc8ce1fb")
+		)
+		(instances
+			(project "Keybrd_Part_2"
+				(path "/81b42d2b-3549-47f3-9495-e592cbed5536/e54e4537-1233-4890-adb4-9db6da850684"
+					(reference "#PWR07")
 					(unit 1)
 				)
 			)
@@ -6172,7 +6734,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 226.06 221.2848 0)
 			(hide yes)
 			(show_name no)
@@ -6252,7 +6814,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 220.6752 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -6331,7 +6893,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
 			(at 241.3 220.472 90)
 			(hide yes)
 			(show_name no)
@@ -6490,7 +7052,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 152.0952 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -6691,7 +7253,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 162.2552 90.17 0)
 			(hide yes)
 			(show_name no)
@@ -7275,7 +7837,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 152.0952 90.17 0)
 			(hide yes)
 			(show_name no)
@@ -7474,7 +8036,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
 			(at 293.37 161.798 90)
 			(hide yes)
 			(show_name no)
@@ -7556,7 +8118,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 230.8352 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -7606,7 +8168,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 293.37 69.85 90)
+		(at 283.21 67.31 270)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7617,7 +8179,7 @@
 		(fields_autoplaced yes)
 		(uuid "8a8271c0-cc24-45a8-9edc-8d729ae4be40")
 		(property "Reference" "#PWR041"
-			(at 299.72 69.85 0)
+			(at 276.86 67.31 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7628,18 +8190,17 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 297.18 69.8499 90)
+			(at 281.94 63.5 90)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
 			)
 		)
 		(property "Footprint" ""
-			(at 293.37 69.85 0)
+			(at 283.21 67.31 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7650,7 +8211,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 293.37 69.85 0)
+			(at 283.21 67.31 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7661,7 +8222,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 293.37 69.85 0)
+			(at 283.21 67.31 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8342,7 +8903,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 197.8152 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -8422,7 +8983,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
 			(at 303.53 69.088 90)
 			(hide yes)
 			(show_name no)
@@ -8738,7 +9299,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 162.2552 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -8820,7 +9381,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 186.3852 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -8899,7 +9460,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm"
 			(at 229.87 210.82 0)
 			(hide yes)
 			(show_name no)
@@ -8985,7 +9546,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 241.3 197.1548 0)
 			(hide yes)
 			(show_name no)
@@ -9064,7 +9625,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
 			(at 293.37 164.592 90)
 			(hide yes)
 			(show_name no)
@@ -9270,6 +9831,86 @@
 		)
 	)
 	(symbol
+		(lib_id "Switch:SW_Push")
+		(at 288.29 67.31 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d08a26c4-17e1-4965-b855-45426a02a005")
+		(property "Reference" "SW28"
+			(at 288.29 59.69 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 288.29 62.23 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 288.29 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 288.29 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 288.29 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "c4f250bd-86f0-4143-b393-b82780bc114d")
+		)
+		(pin "1"
+			(uuid "36d6231a-b004-4c57-b2ea-23526b425ed0")
+		)
+		(instances
+			(project "Keybrd_Part_2"
+				(path "/81b42d2b-3549-47f3-9495-e592cbed5536/e54e4537-1233-4890-adb4-9db6da850684"
+					(reference "SW28")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 334.01 55.88 90)
 		(unit 1)
@@ -9301,7 +9942,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 337.82 54.9148 0)
 			(hide yes)
 			(show_name no)
@@ -9380,7 +10021,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
 			(at 196.85 137.668 90)
 			(hide yes)
 			(show_name no)
@@ -9423,86 +10064,6 @@
 			(project "Keybrd_Part_2"
 				(path "/81b42d2b-3549-47f3-9495-e592cbed5536/e54e4537-1233-4890-adb4-9db6da850684"
 					(reference "R8")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector_Generic:Conn_01x02")
-		(at 288.29 69.85 180)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "d6519029-dee3-48e3-a342-a660b08bcdd7")
-		(property "Reference" "J4"
-			(at 288.29 60.96 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Conn_01x02"
-			(at 288.29 63.5 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 288.29 69.85 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 288.29 69.85 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 288.29 69.85 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "addb0446-c71a-4e4d-89f1-6779bdf807ea")
-		)
-		(pin "2"
-			(uuid "77a83bd8-0333-4d85-b598-90b31d26bbf0")
-		)
-		(instances
-			(project "Keybrd_Part_2"
-				(path "/81b42d2b-3549-47f3-9495-e592cbed5536/e54e4537-1233-4890-adb4-9db6da850684"
-					(reference "J4")
 					(unit 1)
 				)
 			)
@@ -9697,7 +10258,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 225.7552 142.24 0)
 			(hide yes)
 			(show_name no)
