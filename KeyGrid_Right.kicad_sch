@@ -466,12 +466,6 @@
 		(uuid "3396f2ae-f437-4dc1-8583-7e6b7a116aa7")
 	)
 	(junction
-		(at 191.77 86.36)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "356d955e-b04e-43b7-a9c3-df69276a355f")
-	)
-	(junction
 		(at 146.05 48.26)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -508,18 +502,6 @@
 		(uuid "5be7b6c0-aae6-40c8-ae3d-6ef37b2dcf23")
 	)
 	(junction
-		(at 191.77 67.31)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "5c398205-25ff-43d1-b3e7-699305f8fca6")
-	)
-	(junction
-		(at 181.61 60.96)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "632601a7-649f-4392-9975-0ae18bc5688f")
-	)
-	(junction
 		(at 130.81 105.41)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -530,12 +512,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6783ef17-d51d-48d0-9503-4995ebb93989")
-	)
-	(junction
-		(at 191.77 105.41)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "6b9cdaf5-857a-4e5b-85a2-05c936486f4e")
 	)
 	(junction
 		(at 135.89 118.11)
@@ -580,12 +556,6 @@
 		(uuid "8ba921c6-bcde-4c98-aaf5-d29f5b6ea9da")
 	)
 	(junction
-		(at 191.77 48.26)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "8c77d72e-616d-4d60-a9a0-4666a00e3470")
-	)
-	(junction
 		(at 100.33 86.36)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -596,12 +566,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "964be1d4-4da7-405d-9701-79e36f10013b")
-	)
-	(junction
-		(at 181.61 99.06)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "96817229-d687-47f9-96fb-2b0517d10f09")
 	)
 	(junction
 		(at 130.81 86.36)
@@ -676,18 +640,6 @@
 		(uuid "c3351aaa-dacb-48fb-9667-2a58265bebcd")
 	)
 	(junction
-		(at 181.61 118.11)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c7428f2b-3dcd-40f5-9689-9d6fd6049c5f")
-	)
-	(junction
-		(at 181.61 137.16)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c9513bf0-31cd-4503-bd50-10f87693291b")
-	)
-	(junction
 		(at 151.13 99.06)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -722,12 +674,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f03fec0c-b80a-4e78-92ed-2f8cc9d9368f")
-	)
-	(junction
-		(at 181.61 80.01)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f195b460-e0ef-44dd-8bf7-6ac689c5966f")
 	)
 	(junction
 		(at 105.41 137.16)
@@ -871,16 +817,6 @@
 	)
 	(wire
 		(pts
-			(xy 191.77 86.36) (xy 191.77 105.41)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "30997cb2-d74d-4fe1-a441-5e1aa8a39097")
-	)
-	(wire
-		(pts
 			(xy 100.33 124.46) (xy 100.33 144.78)
 		)
 		(stroke
@@ -918,16 +854,6 @@
 			(type default)
 		)
 		(uuid "4b772b9d-55ce-44bf-afbd-cad207b891a5")
-	)
-	(wire
-		(pts
-			(xy 181.61 99.06) (xy 196.85 99.06)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4dd99f29-8e3f-4d90-a412-7c49d277c6fb")
 	)
 	(wire
 		(pts
@@ -971,16 +897,6 @@
 	)
 	(wire
 		(pts
-			(xy 181.61 137.16) (xy 196.85 137.16)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6465fe98-b889-45d3-89c3-1936d52e9fec")
-	)
-	(wire
-		(pts
 			(xy 120.65 60.96) (xy 135.89 60.96)
 		)
 		(stroke
@@ -1008,16 +924,6 @@
 			(type default)
 		)
 		(uuid "6c9c11dc-890d-452e-9383-8759bb40e6b7")
-	)
-	(wire
-		(pts
-			(xy 191.77 105.41) (xy 191.77 124.46)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "762a5b82-c62b-4cb3-8361-af50af5cbbeb")
 	)
 	(wire
 		(pts
@@ -1181,16 +1087,6 @@
 	)
 	(wire
 		(pts
-			(xy 181.61 60.96) (xy 196.85 60.96)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9e1a872b-3e80-4985-9cee-71c6d092d24e")
-	)
-	(wire
-		(pts
 			(xy 166.37 118.11) (xy 181.61 118.11)
 		)
 		(stroke
@@ -1208,16 +1104,6 @@
 			(type default)
 		)
 		(uuid "9e9b5e2e-62c0-4c05-b068-50796e649133")
-	)
-	(wire
-		(pts
-			(xy 191.77 48.26) (xy 191.77 67.31)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a83c2c71-4d1e-4873-92fc-f480f76ecf60")
 	)
 	(wire
 		(pts
@@ -1278,16 +1164,6 @@
 			(type default)
 		)
 		(uuid "bbc17b20-0d2e-47e4-8026-97d4bcba4f22")
-	)
-	(wire
-		(pts
-			(xy 181.61 80.01) (xy 196.85 80.01)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bcc85934-9548-489e-9b29-7d47636144f4")
 	)
 	(wire
 		(pts
@@ -1411,16 +1287,6 @@
 	)
 	(wire
 		(pts
-			(xy 191.77 67.31) (xy 191.77 86.36)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e40e4bd3-71b3-4839-9127-9f2baed2862c")
-	)
-	(wire
-		(pts
 			(xy 105.41 157.48) (xy 120.65 157.48)
 		)
 		(stroke
@@ -1481,26 +1347,6 @@
 	)
 	(wire
 		(pts
-			(xy 191.77 36.83) (xy 191.77 48.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f6d97fd7-36f3-4593-973e-9486149cb4ed")
-	)
-	(wire
-		(pts
-			(xy 181.61 118.11) (xy 196.85 118.11)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f7eadd3c-5d07-49a7-819f-4dc1269ede43")
-	)
-	(wire
-		(pts
 			(xy 166.37 137.16) (xy 181.61 137.16)
 		)
 		(stroke
@@ -1518,6 +1364,126 @@
 			(type default)
 		)
 		(uuid "ffba7d80-4611-4610-ae99-47f0810eae82")
+	)
+	(label "RC4"
+		(at 146.05 40.64 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "0c492be8-c391-461e-a219-20cef1961c40")
+	)
+	(label "RR3"
+		(at 88.9 99.06 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "1429a6a0-e354-47ba-a11b-fbee5b7f2ce3")
+	)
+	(label "RC5"
+		(at 161.29 40.64 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "21c493bf-8e0c-4708-b8ea-9cedfa2b1fee")
+	)
+	(label "RC3"
+		(at 130.81 40.64 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "284b5f81-8aae-4550-96f0-7e7c68643dec")
+	)
+	(label "RC6"
+		(at 176.53 40.64 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "2d40a7d0-ad34-42fe-94b7-8f5615d1df80")
+	)
+	(label "RR6"
+		(at 88.9 157.48 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "338e47a5-43ae-4dc6-9c04-584a24cffc99")
+	)
+	(label "RC2"
+		(at 115.57 40.64 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "4ba32b3d-e82a-43a8-a4c8-e24bd5ec194f")
+	)
+	(label "RC1"
+		(at 100.33 40.64 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "8c4e70d4-1930-4235-aecf-4037c42503ca")
+	)
+	(label "RR4"
+		(at 88.9 118.11 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c7ce4736-e867-480c-9e7a-c4faf9453e8b")
+	)
+	(label "RR1"
+		(at 88.9 60.96 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "ece7f78f-62fa-48e3-94f9-3f0b142bd1e2")
+	)
+	(label "RR5"
+		(at 88.9 137.16 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f5d03ed3-66fd-46ca-97b0-ad5c08a2b2c3")
+	)
+	(label "RR2"
+		(at 88.9 80.01 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "fd06bc19-6435-4636-8752-12a013811767")
 	)
 	(global_label "RR1"
 		(shape input)
@@ -1748,30 +1714,6 @@
 		(uuid "b2fbffb3-6366-45f9-a746-56a1a1a07915")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 122.3047 36.83 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
-	(global_label "RC7"
-		(shape input)
-		(at 191.77 36.83 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "b6af567e-5380-43b9-8e7c-109ee147c4d0")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 198.5047 36.83 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2175,7 +2117,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2_1.00u"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 148.59 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -2255,7 +2197,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2_1.00u"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 179.07 107.95 0)
 			(hide yes)
 			(show_name no)
@@ -2335,7 +2277,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2_1.00u"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 179.07 127 0)
 			(hide yes)
 			(show_name no)
@@ -2415,7 +2357,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2_1.00u"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 163.83 107.95 0)
 			(hide yes)
 			(show_name no)
@@ -2495,7 +2437,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2_1.00u"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 102.87 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -2575,7 +2517,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2_1.00u"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 148.59 127 0)
 			(hide yes)
 			(show_name no)
@@ -2759,7 +2701,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2_1.00u"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 179.07 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -2943,7 +2885,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2_1.00u"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 102.87 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -3090,110 +3032,6 @@
 			(project "Keybrd_Part_2"
 				(path "/81b42d2b-3549-47f3-9495-e592cbed5536/e54e4537-1233-4890-adb4-9db6da850684/05ed1915-cf0f-477e-bec2-21fa19d75bd2"
 					(reference "D7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Diode:1N4148WT")
-		(at 196.85 114.3 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "1f9527f6-5e31-4518-ac7e-f1859adf0296")
-		(property "Reference" "D42"
-			(at 199.39 113.0299 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "1N4148WT"
-			(at 199.39 115.5699 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 201.295 114.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/ds30396.pdf"
-			(at 196.85 114.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "75V 0.15A Fast switching Diode, SOD-523"
-			(at 196.85 114.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 196.85 114.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 196.85 114.3 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "27552622-ea7b-4022-b552-231a56ec729c")
-		)
-		(pin "2"
-			(uuid "2c0c79ea-0513-4c50-a7b4-39d244beaa2a")
-		)
-		(instances
-			(project "Keybrd_Part_2"
-				(path "/81b42d2b-3549-47f3-9495-e592cbed5536/e54e4537-1233-4890-adb4-9db6da850684/05ed1915-cf0f-477e-bec2-21fa19d75bd2"
-					(reference "D42")
 					(unit 1)
 				)
 			)
@@ -3439,7 +3277,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2_1.00u"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 179.07 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -3482,86 +3320,6 @@
 			(project "Keybrd_Part_2"
 				(path "/81b42d2b-3549-47f3-9495-e592cbed5536/e54e4537-1233-4890-adb4-9db6da850684/05ed1915-cf0f-477e-bec2-21fa19d75bd2"
 					(reference "SW35")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push_45deg")
-		(at 194.31 69.85 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "2b90fd89-dca4-49a5-a54e-9431f2ec833c")
-		(property "Reference" "SW40"
-			(at 194.31 62.23 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_Push_45deg"
-			(at 194.31 64.77 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2_1.00u"
-			(at 194.31 69.85 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 194.31 69.85 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 194.31 69.85 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "60e62122-e488-4e0e-b4e4-9ee8abd2748c")
-		)
-		(pin "1"
-			(uuid "bc93662f-552f-4f2d-9bb2-07d68c26be48")
-		)
-		(instances
-			(project "Keybrd_Part_2"
-				(path "/81b42d2b-3549-47f3-9495-e592cbed5536/e54e4537-1233-4890-adb4-9db6da850684/05ed1915-cf0f-477e-bec2-21fa19d75bd2"
-					(reference "SW40")
 					(unit 1)
 				)
 			)
@@ -3673,86 +3431,6 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push_45deg")
-		(at 194.31 107.95 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "3285badd-cce4-4ff9-b4b4-ad24a9f70439")
-		(property "Reference" "SW42"
-			(at 194.31 100.33 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_Push_45deg"
-			(at 194.31 102.87 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2_1.00u"
-			(at 194.31 107.95 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 194.31 107.95 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 194.31 107.95 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "1c91c6b3-48ea-46a5-9682-2775cbf02b80")
-		)
-		(pin "1"
-			(uuid "b2c567fd-454f-4d00-970f-0bac68f8295a")
-		)
-		(instances
-			(project "Keybrd_Part_2"
-				(path "/81b42d2b-3549-47f3-9495-e592cbed5536/e54e4537-1233-4890-adb4-9db6da850684/05ed1915-cf0f-477e-bec2-21fa19d75bd2"
-					(reference "SW42")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push_45deg")
 		(at 148.59 107.95 0)
 		(unit 1)
 		(body_style 1)
@@ -3783,7 +3461,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2_1.00u"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 148.59 107.95 0)
 			(hide yes)
 			(show_name no)
@@ -3967,7 +3645,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2_1.00u"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 179.07 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -4047,7 +3725,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2_1.00u"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 102.87 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -4096,190 +3774,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Diode:1N4148WT")
-		(at 196.85 57.15 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "3b7861de-5bf5-4afc-9642-841dd2ab18cd")
-		(property "Reference" "D39"
-			(at 199.39 55.8799 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "1N4148WT"
-			(at 199.39 58.4199 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 201.295 57.15 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/ds30396.pdf"
-			(at 196.85 57.15 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "75V 0.15A Fast switching Diode, SOD-523"
-			(at 196.85 57.15 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 196.85 57.15 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 196.85 57.15 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "6543d0b1-ac72-43e5-a809-a2e5c1a11ac2")
-		)
-		(pin "2"
-			(uuid "0bf7cdb0-ab64-49be-9d5e-529a285c71a0")
-		)
-		(instances
-			(project "Keybrd_Part_2"
-				(path "/81b42d2b-3549-47f3-9495-e592cbed5536/e54e4537-1233-4890-adb4-9db6da850684/05ed1915-cf0f-477e-bec2-21fa19d75bd2"
-					(reference "D39")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push_45deg")
-		(at 194.31 127 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "3c67845a-18a9-43dd-96a7-be27528f7308")
-		(property "Reference" "SW43"
-			(at 194.31 119.38 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_Push_45deg"
-			(at 194.31 121.92 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2_1.00u"
-			(at 194.31 127 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 194.31 127 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 194.31 127 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "454980c4-cdde-4f1b-b9dd-170646c21805")
-		)
-		(pin "1"
-			(uuid "3e2178fa-8677-49a6-9c91-a6dde872f179")
-		)
-		(instances
-			(project "Keybrd_Part_2"
-				(path "/81b42d2b-3549-47f3-9495-e592cbed5536/e54e4537-1233-4890-adb4-9db6da850684/05ed1915-cf0f-477e-bec2-21fa19d75bd2"
-					(reference "SW43")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Switch:SW_Push_45deg")
 		(at 102.87 127 0)
 		(unit 1)
@@ -4311,7 +3805,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2_1.00u"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 102.87 127 0)
 			(hide yes)
 			(show_name no)
@@ -4391,7 +3885,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2_1.00u"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 163.83 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -4434,214 +3928,6 @@
 			(project "Keybrd_Part_2"
 				(path "/81b42d2b-3549-47f3-9495-e592cbed5536/e54e4537-1233-4890-adb4-9db6da850684/05ed1915-cf0f-477e-bec2-21fa19d75bd2"
 					(reference "SW31")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Diode:1N4148WT")
-		(at 196.85 95.25 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "457a4cc1-f23b-4aeb-8575-902563000147")
-		(property "Reference" "D41"
-			(at 199.39 93.9799 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "1N4148WT"
-			(at 199.39 96.5199 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 201.295 95.25 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/ds30396.pdf"
-			(at 196.85 95.25 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "75V 0.15A Fast switching Diode, SOD-523"
-			(at 196.85 95.25 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 196.85 95.25 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 196.85 95.25 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "c622a130-a879-4d1f-ba81-33823b8f9add")
-		)
-		(pin "2"
-			(uuid "7800d173-bcc6-4362-9630-83e2c0656ffe")
-		)
-		(instances
-			(project "Keybrd_Part_2"
-				(path "/81b42d2b-3549-47f3-9495-e592cbed5536/e54e4537-1233-4890-adb4-9db6da850684/05ed1915-cf0f-477e-bec2-21fa19d75bd2"
-					(reference "D41")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Diode:1N4148WT")
-		(at 196.85 76.2 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "4898d35d-cccf-4406-a699-16a0988da399")
-		(property "Reference" "D40"
-			(at 199.39 74.9299 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "1N4148WT"
-			(at 199.39 77.4699 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 201.295 76.2 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/ds30396.pdf"
-			(at 196.85 76.2 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "75V 0.15A Fast switching Diode, SOD-523"
-			(at 196.85 76.2 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 196.85 76.2 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 196.85 76.2 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "24538df7-d91a-45e8-ad69-6b1e082bc475")
-		)
-		(pin "2"
-			(uuid "21be7697-3236-44ca-b0da-f46b0696e822")
-		)
-		(instances
-			(project "Keybrd_Part_2"
-				(path "/81b42d2b-3549-47f3-9495-e592cbed5536/e54e4537-1233-4890-adb4-9db6da850684/05ed1915-cf0f-477e-bec2-21fa19d75bd2"
-					(reference "D40")
 					(unit 1)
 				)
 			)
@@ -4856,86 +4142,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Switch:SW_Push_45deg")
-		(at 194.31 50.8 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "4b7b0cf8-e566-4a06-8069-18c08281c589")
-		(property "Reference" "SW39"
-			(at 194.31 43.18 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_Push_45deg"
-			(at 194.31 45.72 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2_1.00u"
-			(at 194.31 50.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 194.31 50.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 194.31 50.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "a3c0a605-2925-4938-a353-fab02648251b")
-		)
-		(pin "1"
-			(uuid "8605af48-4282-4f52-bc3d-4d847969e179")
-		)
-		(instances
-			(project "Keybrd_Part_2"
-				(path "/81b42d2b-3549-47f3-9495-e592cbed5536/e54e4537-1233-4890-adb4-9db6da850684/05ed1915-cf0f-477e-bec2-21fa19d75bd2"
-					(reference "SW39")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Diode:1N4148WT")
 		(at 151.13 133.35 90)
 		(unit 1)
@@ -5071,7 +4277,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2_1.00u"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 118.11 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -5151,7 +4357,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2_1.00u"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 148.59 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -5231,7 +4437,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2_1.50u"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 133.35 147.32 0)
 			(hide yes)
 			(show_name no)
@@ -5280,110 +4486,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Diode:1N4148WT")
-		(at 196.85 133.35 90)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "6ba659ae-3155-4577-8618-508f92890045")
-		(property "Reference" "D43"
-			(at 199.39 132.0799 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "1N4148WT"
-			(at 199.39 134.6199 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_SOD-123"
-			(at 201.295 133.35 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/ds30396.pdf"
-			(at 196.85 133.35 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "75V 0.15A Fast switching Diode, SOD-523"
-			(at 196.85 133.35 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Device" "D"
-			(at 196.85 133.35 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Sim.Pins" "1=K 2=A"
-			(at 196.85 133.35 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "1f99b8c9-0df1-4209-b195-6edba19c1ecc")
-		)
-		(pin "2"
-			(uuid "0c713b92-6339-4fa1-9504-dadada63d00c")
-		)
-		(instances
-			(project "Keybrd_Part_2"
-				(path "/81b42d2b-3549-47f3-9495-e592cbed5536/e54e4537-1233-4890-adb4-9db6da850684/05ed1915-cf0f-477e-bec2-21fa19d75bd2"
-					(reference "D43")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Switch:SW_Push_45deg")
 		(at 118.11 127 0)
 		(unit 1)
@@ -5415,7 +4517,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2_1.00u"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 118.11 127 0)
 			(hide yes)
 			(show_name no)
@@ -5495,7 +4597,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2_1.00u"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 102.87 107.95 0)
 			(hide yes)
 			(show_name no)
@@ -5575,7 +4677,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2_1.00u"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 163.83 127 0)
 			(hide yes)
 			(show_name no)
@@ -5655,7 +4757,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2_1.00u"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 118.11 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -5735,7 +4837,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2_1.00u"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 133.35 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -5919,7 +5021,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2_1.00u"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 118.11 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -6519,7 +5621,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2_1.00u"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 133.35 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -6703,7 +5805,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2_1.25u"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 118.11 147.32 0)
 			(hide yes)
 			(show_name no)
@@ -6783,7 +5885,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2_1.00u"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 148.59 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -6967,7 +6069,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2_1.00u"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 133.35 127 0)
 			(hide yes)
 			(show_name no)
@@ -7775,7 +6877,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2_1.25u"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 102.87 147.32 0)
 			(hide yes)
 			(show_name no)
@@ -7959,7 +7061,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2_1.00u"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 163.83 69.85 0)
 			(hide yes)
 			(show_name no)
@@ -8143,7 +7245,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2_1.00u"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 163.83 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -8223,7 +7325,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2_1.00u"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 118.11 107.95 0)
 			(hide yes)
 			(show_name no)
@@ -8303,7 +7405,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2_1.00u"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 133.35 88.9 0)
 			(hide yes)
 			(show_name no)
@@ -8450,86 +7552,6 @@
 			(project "Keybrd_Part_2"
 				(path "/81b42d2b-3549-47f3-9495-e592cbed5536/e54e4537-1233-4890-adb4-9db6da850684/05ed1915-cf0f-477e-bec2-21fa19d75bd2"
 					(reference "D33")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Switch:SW_Push_45deg")
-		(at 194.31 88.9 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "e6ff22b7-9aab-49ab-9926-fc0008d7bbd5")
-		(property "Reference" "SW41"
-			(at 194.31 81.28 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "SW_Push_45deg"
-			(at 194.31 83.82 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2_1.00u"
-			(at 194.31 88.9 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 194.31 88.9 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Push button switch, normally open, two pins, 45° tilted"
-			(at 194.31 88.9 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "eeb87eab-ac61-4198-bb96-8253f9d9f5c3")
-		)
-		(pin "1"
-			(uuid "fcfe8ea4-764f-4a9e-a599-0b16e5599d27")
-		)
-		(instances
-			(project "Keybrd_Part_2"
-				(path "/81b42d2b-3549-47f3-9495-e592cbed5536/e54e4537-1233-4890-adb4-9db6da850684/05ed1915-cf0f-477e-bec2-21fa19d75bd2"
-					(reference "SW41")
 					(unit 1)
 				)
 			)
@@ -8775,7 +7797,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2_1.00u"
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 133.35 107.95 0)
 			(hide yes)
 			(show_name no)
