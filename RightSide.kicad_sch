@@ -4153,6 +4153,16 @@
 	)
 	(wire
 		(pts
+			(xy 358.14 167.64) (xy 373.38 167.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1e709fe7-e31e-48f0-889c-cb5dac60139b")
+	)
+	(wire
+		(pts
 			(xy 184.15 127) (xy 193.04 127)
 		)
 		(stroke
@@ -4303,6 +4313,26 @@
 	)
 	(wire
 		(pts
+			(xy 358.14 223.52) (xy 373.38 223.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "301eefc3-bbaa-4b50-b9b5-221d23f71eaf")
+	)
+	(wire
+		(pts
+			(xy 358.14 180.34) (xy 373.38 180.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "30584982-c36d-4709-9cbc-6d704bd05f57")
+	)
+	(wire
+		(pts
 			(xy 191.77 130.81) (xy 193.04 130.81)
 		)
 		(stroke
@@ -4330,6 +4360,16 @@
 			(type default)
 		)
 		(uuid "38e65621-8537-4b41-8690-fcfec17c7c79")
+	)
+	(wire
+		(pts
+			(xy 358.14 190.5) (xy 373.38 190.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "38e913fc-1bd3-467b-a6bb-5bb12ee178b6")
 	)
 	(wire
 		(pts
@@ -4433,6 +4473,16 @@
 	)
 	(wire
 		(pts
+			(xy 358.14 205.74) (xy 373.38 205.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "44f7ec6b-f572-424f-86e7-cccb95a0a4a2")
+	)
+	(wire
+		(pts
 			(xy 161.29 90.17) (xy 161.29 92.71)
 		)
 		(stroke
@@ -4440,6 +4490,16 @@
 			(type default)
 		)
 		(uuid "4751536c-6c80-4cc0-bafb-0eaa9d79ae50")
+	)
+	(wire
+		(pts
+			(xy 358.14 208.28) (xy 373.38 208.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4997e69c-1362-4d7c-ab5f-9d6dcffb89c0")
 	)
 	(wire
 		(pts
@@ -4463,6 +4523,26 @@
 	)
 	(wire
 		(pts
+			(xy 358.14 162.56) (xy 373.38 162.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "517118b7-9bfc-4e82-af81-b26037d6f173")
+	)
+	(wire
+		(pts
+			(xy 358.14 203.2) (xy 373.38 203.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "527ec1c1-ea00-4ee8-a52a-d0552bbb8b3f")
+	)
+	(wire
+		(pts
 			(xy 327.66 143.51) (xy 327.66 147.32)
 		)
 		(stroke
@@ -4470,6 +4550,16 @@
 			(type default)
 		)
 		(uuid "54a7134a-3ab0-4167-94ed-644dbcaef00f")
+	)
+	(wire
+		(pts
+			(xy 358.14 177.8) (xy 373.38 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5518f91c-5bee-4839-8e88-55b5d5a6c01e")
 	)
 	(wire
 		(pts
@@ -4543,6 +4633,16 @@
 	)
 	(wire
 		(pts
+			(xy 358.14 172.72) (xy 373.38 172.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "64a71297-9445-4a41-ac45-bda67b0d2870")
+	)
+	(wire
+		(pts
 			(xy 224.79 134.62) (xy 226.06 134.62)
 		)
 		(stroke
@@ -4573,6 +4673,36 @@
 	)
 	(wire
 		(pts
+			(xy 358.14 215.9) (xy 373.38 215.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6baa4739-f610-4e8c-b805-7edb3040092e")
+	)
+	(wire
+		(pts
+			(xy 358.14 231.14) (xy 373.38 231.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6cb77127-37a7-4bd8-b923-7462a704bdcc")
+	)
+	(wire
+		(pts
+			(xy 358.14 182.88) (xy 373.38 182.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6ead8ae0-ee40-4722-819c-34238f89de5a")
+	)
+	(wire
+		(pts
 			(xy 151.13 92.71) (xy 151.13 96.52)
 		)
 		(stroke
@@ -4600,6 +4730,16 @@
 			(type default)
 		)
 		(uuid "71b0bda9-4074-47f5-8763-76ae7183b12b")
+	)
+	(wire
+		(pts
+			(xy 358.14 210.82) (xy 373.38 210.82)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "71e76498-5492-4501-a680-bcde432c8b2c")
 	)
 	(wire
 		(pts
@@ -4723,6 +4863,16 @@
 	)
 	(wire
 		(pts
+			(xy 358.14 218.44) (xy 373.38 218.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "80a74bd3-bbb9-4de4-b511-c13b692c42b8")
+	)
+	(wire
+		(pts
 			(xy 308.61 77.47) (xy 320.04 77.47)
 		)
 		(stroke
@@ -4750,6 +4900,16 @@
 			(type default)
 		)
 		(uuid "85d12b85-5107-43aa-90db-a1207fe27cbe")
+	)
+	(wire
+		(pts
+			(xy 358.14 154.94) (xy 373.38 154.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "89f10aec-713e-4559-a7cc-59bd3ad28e48")
 	)
 	(wire
 		(pts
@@ -4790,6 +4950,16 @@
 			(type default)
 		)
 		(uuid "8f4e7db9-10b5-4d14-b98a-3b4c0eb54c82")
+	)
+	(wire
+		(pts
+			(xy 358.14 187.96) (xy 373.38 187.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8f95a1b1-59ac-416c-b52e-c1ed9f1235d9")
 	)
 	(wire
 		(pts
@@ -4843,6 +5013,16 @@
 	)
 	(wire
 		(pts
+			(xy 358.14 175.26) (xy 373.38 175.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9f920273-a5c1-4ffe-b240-0984658b5d31")
+	)
+	(wire
+		(pts
 			(xy 297.18 177.8) (xy 307.34 177.8)
 		)
 		(stroke
@@ -4850,6 +5030,16 @@
 			(type default)
 		)
 		(uuid "a00044f5-aa38-40ec-994a-8b0c9d1c37dc")
+	)
+	(wire
+		(pts
+			(xy 358.14 165.1) (xy 373.38 165.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a1d50ae4-ac50-40b5-acb9-5be29b08c18e")
 	)
 	(wire
 		(pts
@@ -4870,6 +5060,16 @@
 			(type default)
 		)
 		(uuid "a68d5736-4b39-481b-a782-4d273e0c24c7")
+	)
+	(wire
+		(pts
+			(xy 358.14 195.58) (xy 373.38 195.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a9a18fb9-d262-4cfb-98b2-381c045fbeb8")
 	)
 	(wire
 		(pts
@@ -4963,6 +5163,26 @@
 	)
 	(wire
 		(pts
+			(xy 358.14 200.66) (xy 373.38 200.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bfe17acf-65ad-4465-bcde-3ba1a6f8adaf")
+	)
+	(wire
+		(pts
+			(xy 358.14 185.42) (xy 373.38 185.42)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bffa0bbd-5e4a-4f3f-9639-bc6b7868c001")
+	)
+	(wire
+		(pts
 			(xy 242.57 198.12) (xy 241.3 198.12)
 		)
 		(stroke
@@ -4970,6 +5190,16 @@
 			(type default)
 		)
 		(uuid "c05c7845-7054-4eec-b190-dc7cd5afed3d")
+	)
+	(wire
+		(pts
+			(xy 358.14 198.12) (xy 373.38 198.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c0692cec-f5db-424a-92c8-707ff3ffdcd4")
 	)
 	(wire
 		(pts
@@ -5173,6 +5403,16 @@
 	)
 	(wire
 		(pts
+			(xy 358.14 170.18) (xy 373.38 170.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d647d251-b6d6-45d6-9c60-cc7537153b52")
+	)
+	(wire
+		(pts
 			(xy 297.18 185.42) (xy 307.34 185.42)
 		)
 		(stroke
@@ -5200,6 +5440,16 @@
 			(type default)
 		)
 		(uuid "dd15369e-fb57-4b42-8316-07a9f3f13821")
+	)
+	(wire
+		(pts
+			(xy 358.14 228.6) (xy 373.38 228.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "de170aa9-f514-4b65-9699-659e565b1512")
 	)
 	(wire
 		(pts
@@ -5323,6 +5573,16 @@
 	)
 	(wire
 		(pts
+			(xy 358.14 193.04) (xy 373.38 193.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eece8447-fbbd-423b-a4df-d7befc86344d")
+	)
+	(wire
+		(pts
 			(xy 185.42 31.75) (xy 185.42 35.56)
 		)
 		(stroke
@@ -5363,6 +5623,16 @@
 	)
 	(wire
 		(pts
+			(xy 358.14 213.36) (xy 373.38 213.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fa004d06-4209-47c6-a512-d443c9ef7214")
+	)
+	(wire
+		(pts
 			(xy 151.13 80.01) (xy 161.29 80.01)
 		)
 		(stroke
@@ -5370,6 +5640,36 @@
 			(type default)
 		)
 		(uuid "fa1f5c31-7aa1-4c6f-960a-cda7f9404fe7")
+	)
+	(wire
+		(pts
+			(xy 358.14 226.06) (xy 373.38 226.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fc262e10-489e-4a6e-9168-f72d7fbdd7f4")
+	)
+	(label "GPIO12"
+		(at 359.41 185.42 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "02a49149-77b0-42f1-8677-49b154676892")
+	)
+	(label "GPIO26_ADC"
+		(at 359.41 223.52 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "02a94c0e-33c0-48fa-ac15-a7d8eef60a9c")
 	)
 	(label "GPIO_1"
 		(at 365.76 157.48 180)
@@ -5421,6 +5721,26 @@
 		)
 		(uuid "1b8fcdd8-1b91-42b5-b6dd-7f7a0b2081cf")
 	)
+	(label "GPIO20"
+		(at 359.41 205.74 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "1d204fae-2534-4cfa-a434-953dc681585a")
+	)
+	(label "GPIO10"
+		(at 359.41 180.34 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "254ba94b-fa8c-4db5-ac54-39623c5fe9f8")
+	)
 	(label "USB_D+"
 		(at 193.04 147.32 180)
 		(effects
@@ -5430,6 +5750,76 @@
 			(justify right bottom)
 		)
 		(uuid "28f0602d-af27-49e1-ac4e-f65674ae1911")
+	)
+	(label "GPIO22"
+		(at 359.41 210.82 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "3d7e2755-2bb6-4fef-9dd0-44e392438ee1")
+	)
+	(label "GPIO17"
+		(at 359.41 198.12 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "44a49a3b-1889-47a6-aaf7-d3df225b932a")
+	)
+	(label "GPIO29_ADC"
+		(at 359.41 231.14 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "44cd830f-73fb-4f68-a445-343f8ba12875")
+	)
+	(label "GPIO27_ADC"
+		(at 359.41 226.06 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "48318223-c10b-4ae0-91d8-43cbd172f320")
+	)
+	(label "GPIO0"
+		(at 359.41 154.94 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "4c896f16-249d-4f93-a05f-22b4af716109")
+	)
+	(label "GPIO28_ADC"
+		(at 359.41 228.6 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "4d4d36a5-b38c-4915-b875-a27044c92e30")
+	)
+	(label "GPIO23"
+		(at 359.41 213.36 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "54356584-5627-4962-8c60-bcf0875383dd")
 	)
 	(label "QSPI_SD1"
 		(at 297.18 180.34 0)
@@ -5461,6 +5851,36 @@
 		)
 		(uuid "69834409-3573-4a90-af44-dd7e9ac8ff88")
 	)
+	(label "GPIO25"
+		(at 359.41 218.44 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "6c37535f-21fd-4791-aca5-42e99dc2a933")
+	)
+	(label "GPIO8"
+		(at 359.41 175.26 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "6e600eb6-0203-4dbf-9e84-4b2e0ef7641e")
+	)
+	(label "GPIO6"
+		(at 359.41 170.18 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "703fdbbe-1301-437d-a8fd-6e278aa05ef1")
+	)
 	(label "RUN"
 		(at 299.72 154.94 0)
 		(effects
@@ -5481,6 +5901,26 @@
 		)
 		(uuid "74cd3280-95ac-44d2-9a59-c285a1228034")
 	)
+	(label "GPIO13"
+		(at 359.41 187.96 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "7575d86b-1277-490b-b829-48cd537a276e")
+	)
+	(label "GPIO3"
+		(at 359.41 162.56 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "7c8f2266-4f7e-4461-a9be-ee0275e8ae8c")
+	)
 	(label "QSPI_SS"
 		(at 320.04 45.72 270)
 		(effects
@@ -5490,6 +5930,16 @@
 			(justify right bottom)
 		)
 		(uuid "83287a15-7b46-4e55-ae78-2c93ec34c7ed")
+	)
+	(label "GPIO14"
+		(at 359.41 190.5 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "87c0a45c-d505-44f4-bd6c-7281bd6ae609")
 	)
 	(label "GPIO_2"
 		(at 182.88 218.44 180)
@@ -5510,6 +5960,16 @@
 			(justify left bottom)
 		)
 		(uuid "8bb12e9a-61fa-42ab-97a8-de8fd72ba6d5")
+	)
+	(label "GPIO21"
+		(at 359.41 208.28 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "8bdee393-6bdf-48c1-a93e-ae08aaa4d99f")
 	)
 	(label "QSPI_SCLK"
 		(at 297.18 187.96 0)
@@ -5551,6 +6011,26 @@
 		)
 		(uuid "97adcb01-dab6-4edb-8120-d2e515e68534")
 	)
+	(label "R8"
+		(at 191.77 135.89 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "9c1961f1-8951-41e7-89ee-16cf77f7d9e7")
+	)
+	(label "GPIO9"
+		(at 359.41 177.8 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "9c50f5dd-c8e5-4df8-b791-67972363299c")
+	)
 	(label "USB_D-"
 		(at 281.94 166.37 0)
 		(effects
@@ -5560,6 +6040,16 @@
 			(justify left bottom)
 		)
 		(uuid "a229a406-8530-4201-9253-351175558f22")
+	)
+	(label "GPIO16"
+		(at 359.41 195.58 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a2dcac2d-922a-4c19-addd-8fbf3f0a04df")
 	)
 	(label "QSPI_SD2"
 		(at 297.18 182.88 0)
@@ -5581,6 +6071,26 @@
 		)
 		(uuid "aa865ebc-f5bc-46f3-855a-264a2a25f0d8")
 	)
+	(label "GPIO7"
+		(at 359.41 172.72 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "aad649af-3c60-41ff-8a21-04cd81954c53")
+	)
+	(label "GPIO11"
+		(at 359.41 182.88 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "bbcc9748-b2a8-4b1f-900b-9d35140bf736")
+	)
 	(label "SWD"
 		(at 297.18 223.52 0)
 		(effects
@@ -5591,6 +6101,66 @@
 		)
 		(uuid "beb50255-b0a3-4c04-a9ae-cb86916387e4")
 	)
+	(label "R10"
+		(at 300.99 160.02 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c3b2bd4e-67fc-412d-a26b-dfb49d611baa")
+	)
+	(label "GPIO5"
+		(at 359.41 167.64 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c72cd7ec-6602-4c86-a846-30dd5ab0cc58")
+	)
+	(label "GPIO15"
+		(at 359.41 193.04 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "cc0db249-947d-4bf3-9267-752bb3e87391")
+	)
+	(label "R7"
+		(at 191.77 132.08 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "ccfa7b33-9a2d-40b6-94fb-c8211bf1fe43")
+	)
+	(label "GPIO18"
+		(at 359.41 200.66 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "ce7275e6-d4ea-455e-8734-83544d7d8044")
+	)
+	(label "R11"
+		(at 300.99 166.37 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "d13d8f14-e922-43e6-acdf-a85d0512e9be")
+	)
 	(label "QSPI_SD3"
 		(at 308.61 80.01 0)
 		(effects
@@ -5600,6 +6170,46 @@
 			(justify left bottom)
 		)
 		(uuid "e14a4d36-1994-4c78-aaf4-be0b9a9bf431")
+	)
+	(label "R9"
+		(at 231.14 222.25 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "e5206037-c914-4cd8-b9e4-975b0e4e0707")
+	)
+	(label "GPIO24"
+		(at 359.41 215.9 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "e8c16514-08e9-4d17-8286-3a816f0b88f5")
+	)
+	(label "GPIO4"
+		(at 359.41 165.1 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "e99f82d3-fca2-4604-b8a8-5c4a2722122a")
+	)
+	(label "GPIO19"
+		(at 359.41 203.2 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f17a37ee-fe56-48c6-bede-5e1f1b67c7f2")
 	)
 	(label "QSPI_SD3"
 		(at 297.18 185.42 0)
@@ -6481,7 +7091,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 196.85 129.032 90)
 			(hide yes)
 			(show_name no)
@@ -6876,7 +7486,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 250.19 220.472 90)
 			(hide yes)
 			(show_name no)
@@ -7115,7 +7725,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_USB:USB_C_Receptacle_GCT_USB4125-xx-x-0190_6P_TopMnt_Horizontal"
+		(property "Footprint" "Connector_USB:USB_C_Receptacle_Amphenol_12401548E4-2A"
 			(at 172.72 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -7900,7 +8510,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_USB:USB_C_Receptacle_GCT_USB4125-xx-x-0190_6P_TopMnt_Horizontal"
+		(property "Footprint" "Connector_USB:USB_C_Receptacle_Amphenol_12401548E4-2A"
 			(at 162.56 213.36 0)
 			(hide yes)
 			(show_name no)
@@ -8019,7 +8629,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 293.37 161.798 90)
 			(hide yes)
 			(show_name no)
@@ -8966,7 +9576,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 303.53 69.088 90)
 			(hide yes)
 			(show_name no)
@@ -9608,7 +10218,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 293.37 164.592 90)
 			(hide yes)
 			(show_name no)
@@ -10004,7 +10614,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0201_0603Metric_Pad0.64x0.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 196.85 137.668 90)
 			(hide yes)
 			(show_name no)
